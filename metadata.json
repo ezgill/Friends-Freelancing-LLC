@@ -1,0 +1,6 @@
+{
+  "name": "Friends Freelancing LLC",
+  "description": "Landscaping, Lawn Care & Property Maintenance by Friends Freelancing LLC. Weekly mowing, edging, mulch, cleanups, trimming, and instant pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
